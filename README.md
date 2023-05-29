@@ -1,4 +1,4 @@
-# Wind Speed Prediction using Interpretable Stacked Ensemble (ISE-RIDGE)
+# Wind Speed Prediction using Interpretable Stacking Ensemble Machine Learning Algorithms
 
 
 
