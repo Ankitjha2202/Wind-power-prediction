@@ -40,6 +40,7 @@ Multilayer Perceptrons (MLP) have been used to solve non-linear regression probl
 
 These base learners will be combined in a stacking ensemble model to leverage their individual strengths and improve the accuracy of wind energy predictions.
 
+![Stacking Model](https://i.postimg.cc/sXHS91Zg/991a391b-accd-4c46-bf6c-8db73cccd567.jpg)
 ## Evaluation Metrics
 
 The evaluation metrics used for this research are:
