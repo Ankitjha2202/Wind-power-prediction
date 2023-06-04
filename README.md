@@ -54,3 +54,13 @@ The evaluation metrics used for this research are:
 ## SHAP Analysis
 
 Understanding the inner workings of complex machine learning models is crucial for building trust and gaining insights into their decision-making processes. SHAP analysis helps explain the predictions of black-box models by assigning feature importance scores to each input variable. By quantifying the impact of features on model predictions, SHAP values provide interpretability and enable the identification of key factors driving specific predictions.
+
+
+## Conclusion
+-	The study proposes a stacking ensemble interpretable machine learning model for improving wind energy prediction.
+-	The model uses RF, CatBoost, GB, MLP as first-layer base learners and RidgeR as the second-layer meta-learner.
+-	The stacking model outperforms mainstream machine learning models and other ensemble techniques, with RMSE = 0.306, MAE = 0.228, and R(square) = 0.970.
+-	SHAP analysis shows that WS10M_MIN and WS10M_MAX are the most significant variables in the output of the stacked model.
+-	The model has a range of percentage error in December 2022 month between -21.75019 to 11.70050.
+-	The study demonstrates the potential of stacking ensemble machine learning models in advancing the field of renewable energy prediction.
+
